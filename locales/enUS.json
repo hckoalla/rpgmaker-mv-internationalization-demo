@@ -1,7 +1,7 @@
 {
-	"choose_your_language": "Choose your language",
+	"language": "Language",
 	"enUS": "EN-US - English",
 	"ptBR": "PT-BR - Portuguese",
-	"message_english_chosen": "Now your language is Enligsh!",
-	"message_portuguese_chosen": "Agora o seu idioma é Português!"
+	"choose_your_language": "Choose your language",
+	"message_language_chosen": "Now your language is Enligsh!!"
 }
